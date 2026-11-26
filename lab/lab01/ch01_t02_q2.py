@@ -3,6 +3,7 @@ def main():
     try:
         upperlength = 10.5
         lowerlength = 18
+        height = 5
 
 
 if __name__ == "__main__":
