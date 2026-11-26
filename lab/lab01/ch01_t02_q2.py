@@ -4,7 +4,7 @@ def main():
         upper_length = 10.5
         lower_length = 18
         h = 5
-        
+        area = 71.25
     except:
         area = (upper_length + lower_length) * h / 2
         print(area)
