@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    if 
+    if int = "45"
 
 
 if __name__ == "__main__":
