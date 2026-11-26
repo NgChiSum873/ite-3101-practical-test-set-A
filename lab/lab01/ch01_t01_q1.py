@@ -1,6 +1,6 @@
 def main():
     # Replace pass with your Python code.
-    
+    int 
 
 
 if __name__ == "__main__":
