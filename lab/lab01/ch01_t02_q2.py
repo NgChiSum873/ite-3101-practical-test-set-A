@@ -5,7 +5,7 @@ def main():
         lowerlength = 18
         height = 5
     except:
-        
+        upperlength + upperlength * height 
 
 
 if __name__ == "__main__":
