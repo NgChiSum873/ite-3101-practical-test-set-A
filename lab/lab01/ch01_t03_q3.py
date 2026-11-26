@@ -9,7 +9,7 @@ def get_number_sequence(n: int) -> str:
 def main():
     # Replace pass with your Python code.
     try:
-        number int(input())
+        number = int(input())
 
     except ValueError:
         print("You must enter a positive integer")
