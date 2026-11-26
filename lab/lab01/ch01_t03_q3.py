@@ -9,7 +9,7 @@ def get_number_sequence(n: int) -> str:
 
 def main():
     # Replace pass with your Python code.
-    pass
+    int = int =(float(4))
 
 
 if __name__ == "__main__":
