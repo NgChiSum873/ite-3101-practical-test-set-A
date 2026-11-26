@@ -3,7 +3,7 @@ def get_number_sequence(n: int) -> str:
     # Add your Python code.
     get_number_sequence(6)
     range(6)
-    print
+    print(1,2,3,4,5,6)
 
     return result
 
