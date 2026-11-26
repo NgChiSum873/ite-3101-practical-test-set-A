@@ -13,7 +13,7 @@ def main():
         number int(input())
 
     except ValueError:
-        print("You must enter a ")
+        print("You must enter a positive")
 
 
 if __name__ == "__main__":
