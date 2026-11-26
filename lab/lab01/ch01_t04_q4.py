@@ -6,7 +6,7 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
         c = 5
     except ValueError:
         right_angle = (a**2 + b**2 = c**2)
-        print(is_right_angle)
+        print("is right angle")
 
 
 def main():
