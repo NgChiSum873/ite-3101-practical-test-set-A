@@ -13,7 +13,7 @@ def main():
         number int(input())
 
     except ValueError:
-        print
+        print(get_number_sequence)
 
 
 if __name__ == "__main__":
