@@ -1,7 +1,7 @@
 def main():
     # Replace pass with your Python code.
     number = int(int(45))
-    divsible = 
+    divsible = int()
 
 
 
