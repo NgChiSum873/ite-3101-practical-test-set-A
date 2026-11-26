@@ -2,8 +2,7 @@ def get_number_sequence(n: int) -> str:
     result = ""
     # Add your Python code.
     get_number_sequence(6)
-    range(6)
-    print(1,2,3,4,5,6)
+   
 
     return result
 
