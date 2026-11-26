@@ -2,7 +2,7 @@ def main():
     # Replace pass with your Python code.
     try:
         upperlength = 10.5
-        lowerle
+        lowerlength = 18
 
 
 if __name__ == "__main__":
