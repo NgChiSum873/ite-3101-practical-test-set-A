@@ -7,7 +7,7 @@ def main():
     divisible = int(float(both"3" and "4" ))
 
 expect ValueError:
-print("you")
+print("you must enr=ter a positive integer")
 if __name__ == "__main__":
     # execute only if run as a script
     main()
