@@ -11,7 +11,7 @@ def main():
     # Replace pass with your Python code.
     try:
         number int(input())
-    except:
+    except Value:
 
 
 if __name__ == "__main__":
