@@ -5,7 +5,8 @@ def main():
         lowerlength = 18
         height = 5
     except:
-        area = (upperlength+lowerlength)
+        area = (upperlength+lowerlength) * height/2
+        print(area)
 
 
 if __name__ == "__main__":
