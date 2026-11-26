@@ -1,7 +1,7 @@
 def main():
     # Replace pass with your Python code.
     try:
-        "upperlength = 10.5
+        "upperlength" = 10.5
         lowerlength = 18
         height = 5
     except:
