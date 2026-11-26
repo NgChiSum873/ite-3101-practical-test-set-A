@@ -10,8 +10,13 @@ def is_right_angle(a: float, b: float, c: float) -> bool:
 
 
 def main():
-    # Replace pass with your Python code.
-    pass
+       try:
+        a = 1
+        b = 2
+        c = 3
+    except ValueError:
+        right_angle = (a**2 + b**2 = c**2)
+        print(is_right_angle)
 
 
 if __name__ == "__main__":
