@@ -16,7 +16,7 @@ def main():
         c = 3
     except ValueError:
         right_angle = (a**2 + b**2 = c**2)
-        print(is_right_angle)
+        print(not_right_angle)
 
 
 if __name__ == "__main__":
