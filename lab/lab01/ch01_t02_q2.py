@@ -2,7 +2,7 @@ def main():
     # Replace pass with your Python code.
     try:
         upper_length = 10.5
-        lowerlength = 18
+        lower_length = 18
         height = 5
     except:
         area = (upperlength+lowerlength) * height/2
